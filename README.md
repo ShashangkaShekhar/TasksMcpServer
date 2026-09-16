@@ -1,4 +1,4 @@
-# TasksMcpServer
+# Tasks Mcp Server(.NET)
 
 A minimal [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server built with **.NET 10** and `ModelContextProtocol.AspNetCore` 2.2.0. Exposes a simple in-memory task list over **streamable HTTP** at `/mcp`, plus a `/health` endpoint for hosting checks.
 
